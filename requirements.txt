@@ -1,1 +1,8 @@
+# Required for the Vercel Serverless Function wrapper
+flask
 
+# Add all other packages your detection logic uses
+# For example, if you use Scikit-learn and NumPy:
+numpy
+scikit-learn 
+# Add the exact package names used in your Detection.py
